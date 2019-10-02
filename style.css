@@ -57,7 +57,7 @@ a:focus{
 	color: green;
 }
 .random:focus{
-	color: green;
+	border-color: green;
 }
 .random{
 	border-color: red;
